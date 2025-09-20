@@ -1,0 +1,2 @@
+# INFORMATICA2
+practicas
